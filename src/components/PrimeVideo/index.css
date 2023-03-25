@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.main-body-container {
+  display: flex;
+  flex-direction: column;
+}
+.prime-image-main {
+  width: 100%;
+}
+.action-movie-container {
+  background-color: black;
+  color: white;
+  padding: 35px;
+  margin-bottom: 50px;
+  min-height: 100vh;
+}
+.movies-heading {
+  margin: 25px 0px 25px 0px;
+}
